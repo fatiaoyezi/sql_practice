@@ -66,6 +66,3 @@ insert into Score values('06' , '01' , 31);
 insert into Score values('06' , '03' , 34);
 insert into Score values('07' , '02' , 89);
 insert into Score values('07' , '03' , 98);
-————————————————
-版权声明：本文为CSDN博主「启明星的指引」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/fashion2014/article/details/78826299
