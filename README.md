@@ -83,6 +83,3 @@ select a.s_id,a.s_name,count(b.c_id) as sum_course,sum(b.s_score) as sum_score f
 
 
 ​	
-
-
-

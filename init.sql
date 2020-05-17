@@ -1,3 +1,4 @@
+
 -- 建表
 -- 学生表
 CREATE TABLE `Student`(
